@@ -1,4 +1,10 @@
-1.
+
+тут могла быть ваша реклама
+
+1.Lomonos
+2.OlenaHrechko
 Test merge conflict 1
 New text from new_branch
+
+echo "Hi world!"
 
