@@ -1,5 +1,8 @@
+1.Lomonos
+2.OlenaHrechko
 Test merge conflict 1
-
 New text from new_branch
-
 new data from Hrytsenko
+
+echo "Hi world!"
+
