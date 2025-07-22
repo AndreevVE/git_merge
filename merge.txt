@@ -5,3 +5,4 @@ New text from new_branch
 
 echo "Hi world!"
 Hello from Ukraine!
+Hello from Ukraine!
